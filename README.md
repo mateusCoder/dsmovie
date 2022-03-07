@@ -1,7 +1,7 @@
 <p> INSERT INTO MOVIES (NAME, DESCRIPTION, YEAR) VALUES (?, ? , ?); </p>
 <a> "Panico I", "Filme de terror brabo dos brabos, o melhor da franquia", 1996 </a>
-"Star Wars VI", "A Treta final no espaço com um plot twist top", 1983
-"Senhor do Aneis", "Uma viagem pela terra média", 2000
+"Star Wars VI", "A Treta final no espaço com um plot twist top", 1983 <br>
+"Senhor do Aneis", "Uma viagem pela terra média", 2000 <br>
 "Hobbit", "Outra viagem na terra média, 2012
 "Meu nome não é Johnny", "O nome dele não é Johnny", 2008
 "Sexto sentido", "O cara morre e vai pro trabalho", 1999
