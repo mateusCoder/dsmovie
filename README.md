@@ -1,5 +1,5 @@
-<p> INSERT INTO MOVIES (NAME, DESCRIPTION, YEAR) VALUES (?, ? , ?); </p>
-<a> "Panico I", "Filme de terror brabo dos brabos, o melhor da franquia", 1996 </a>
+<p> INSERT INTO MOVIES (NAME, DESCRIPTION, YEAR) VALUES (?, ? , ?); <br>
+<a> "Panico I", "Filme de terror brabo dos brabos, o melhor da franquia", 1996 <br>
 "Star Wars VI", "A Treta final no espaço com um plot twist top", 1983 <br>
 "Senhor do Aneis", "Uma viagem pela terra média", 2000 <br>
 "Hobbit", "Outra viagem na terra média, 2012
